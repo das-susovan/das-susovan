@@ -1,5 +1,3 @@
-<img src=".assets/banner.gif" width=100% height=250px>
-
 <h1 style="padding-right: 1rem;">
     <img src=".assets/wave.gif" width=30px height=30px> <samp>Hi, I’m Susovan 👨‍💻</samp>
     <a href="https://susovangithub.github.io/w/">
